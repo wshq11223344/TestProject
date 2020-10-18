@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestPProject</string>
+
+
+    <string-array name="city">
+        <item>北京市</item>
+        <item>天津市</item>
+        <item>哈尔滨市</item>
+        <item>大连市</item>
+        <item>香港市</item>
+    </string-array>
+
+    <string name="transition">changebounds</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="item_home">主页</string>
+    <string name="item_discover">发现</string>
+    <string name="item_contact">联系人</string>
+    <string name="item_my">我的</string>
+</resources>
